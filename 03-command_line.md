@@ -34,7 +34,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > `ls`: Listing, prints the names of the files and directories in the current directory in alphabetical order.
+> > `ls -a`: Displays all files.
+> > `ls -l`: Displays the long format listing.
+> > `ls -lh`: Displays the long format listing, and prints file size in a human readable format. 
+> > `ls -lah`: Displays all files in long format, prints file size in a human readable format. 
+> > `ls -t`: Displays files and directories sorted by modification time, newest first
+> > `ls -Glp`: Displays in a long listing without group names, and  append / indicator to directories.
 
 ---
 
