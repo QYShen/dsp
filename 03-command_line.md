@@ -25,7 +25,7 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 |-------|-----------|
 |pwd|Show current working direcotry path|
 |mkdir [dir]|Creating a directory|
-|re -r [dir]|Deleting a directory|
+|rm -r [dir]|Deleting a directory|
 |touch [file]|Creating a file using "touch" command|
 |rm [file]|Deleting a file|
 |mv [file] [newfile name]|Renaming a file|
