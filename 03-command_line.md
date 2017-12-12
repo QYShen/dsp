@@ -24,8 +24,13 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 |Command|Description|
 |-------|-----------|
 |pwd|Show current working direcotry path|
-|mkdir [directory]|Creating a directory|
-|re -r|Deleting a directory|
+|mkdir [dir]|Creating a directory|
+|re -r [dir]|Deleting a directory|
+|touch [file]|Creating a file using "touch" command|
+|rm [file]|Deleting a file|
+|mv [file] [newfile name]|Renaming a file|
+|ls -a|Listing incl. hidden files|
+|cp [file] [newdir/file]|Copying a file from one directory to another|
 ---
 
 ### Q2.  List Files in Unix   
