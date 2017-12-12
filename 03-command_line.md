@@ -31,6 +31,8 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 |mv [file] [newfile name]|Renaming a file|
 |ls -a|Listing incl. hidden files|
 |cp [file] [newdir/file]|Copying a file from one directory to another|
+|cd../../|Move 2 levels up|
+|open [file]|Opens a file|
 ---
 
 ### Q2.  List Files in Unix   
